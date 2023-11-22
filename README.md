@@ -1,3 +1,4 @@
+![](photo/background.jpg)
 - 👋 Hi, I’m Việt Hưng (thang tran)
 - 👀 I am interested in design and programming
 - 🌱 I am developing a few personal projects as well as group projects
