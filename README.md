@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Việt Hưng (thang tran)</h1>
+<div align="center"> <img src="photo/background.png" /> </div>
 
 ## 😊 About Me
 
