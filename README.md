@@ -2,11 +2,10 @@
 - 👀 I am interested in design and programming
 - 🌱 I am developing a few personal projects as well as group projects
 - 💞️ I am searching and developing my own abilities
-- 📫 How to reach me ...
-- 
-###proficiently
+  
+### proficiently
 - Java, C, MySQLz
-###Good
+### Good
 - Javascript, HTML, CSS,
 - Boostrap.
 - Visual Studio, Android Studio,
